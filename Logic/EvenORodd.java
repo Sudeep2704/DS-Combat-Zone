@@ -1,8 +1,3 @@
-
-
-
-
-
 public class EvenORodd {
 
     public static void main(String args[]) {
